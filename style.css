@@ -60,8 +60,12 @@ h1 {
 .hover {
     background-color: rgba(0, 0, 0, 0.3);
 }
-footer {
-    margin-top: 20px;
-    color: #FFF;
-    font-size: 13px;
+
+footer,h2 {
+    font-size: 16px;
+    margin-top: 50px;
+    color: #999;
+}
+footer, a {
+    color: black;
 }
